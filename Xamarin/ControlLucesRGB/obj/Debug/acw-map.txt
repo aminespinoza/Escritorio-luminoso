@@ -1,0 +1,4 @@
+ControlLucesRGB.MainActivity, ControlLucesRGB;md5d64ae5bbb8be3712f3855b1bc0d1486d.MainActivity
+ControlLucesRGB.MainActivity, ControlLucesRGB, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d64ae5bbb8be3712f3855b1bc0d1486d.MainActivity
+ControlLucesRGB.MainActivity;md5d64ae5bbb8be3712f3855b1bc0d1486d.MainActivity
+controllucesrgb.MainActivity;md5d64ae5bbb8be3712f3855b1bc0d1486d.MainActivity
